@@ -1,0 +1,5 @@
+{
+  "name": "DMSc ATMPs LIS Management (DALM)",
+  "description": "A secure, scalable Laboratory Information System (LIS) featuring role-based access control, dynamic test management, pre-request ordering, and PDF result reporting.",
+  "requestFramePermissions": []
+}
